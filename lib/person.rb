@@ -12,4 +12,3 @@ end
 
 beyonce.new("Beyonce")
 
-beyonce.name
